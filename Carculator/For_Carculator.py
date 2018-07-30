@@ -1,4 +1,4 @@
-i = 0#Verify variable 'i'
+﻿i = 0 #Verify variable 'i'
 for i in range(0, 10):#Repeat under code from 'i'=0 until 'i'=7.
     '''
     Calculator.py 참조
