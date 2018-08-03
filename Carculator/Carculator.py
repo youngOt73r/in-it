@@ -10,7 +10,7 @@ if oper == '+':#If 'oper' equals with user`s input for '+'
 elif oper == '-':#If 'oper' equals with user`s input for '-'
     minus = fir-sec#Verify minus = -. 'minus' makes 'fir' - 'sec'
     print(f+" - "+s+" = "+str(minus)+"이다.")#print "'fir' - 'sec' = 'minus'이다."
-elif oper == '*'::#If 'oper' equals with user`s input for '*'
+elif oper == '*':#If 'oper' equals with user`s input for '*'
     mul = fir*sec#Verify mul = *. 'mul' makes 'fir' * 'sec'
     print(f+" * "+s+" = "+str(mul)+"이다.")#print "'fir' * 'sec' = 'mul'이다."
 elif oper == '/':#If 'oper' equals with user`s input for '/'
